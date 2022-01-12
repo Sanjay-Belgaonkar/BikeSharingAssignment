@@ -4,6 +4,7 @@
 
 ## Table of Contents
 * Problem Statement
+* Linear Regression Steps
 * Conclusions
 
 ## Problem Statement
@@ -19,6 +20,14 @@ Which variables are significant in predicting the demand for shared bikes.
 How well those variables describe the bike demands
 Based on various meteorological surveys and people's styles, the service provider firm has gathered a large dataset on daily bike demands across the American market based on some factors.
 
+## Linear Regression Steps
+* Step 1: Overview of the data set
+* Step 2: Exploratory Data Analysis (EDA)
+* Step 3: Data visualization
+* Step 4: Data Preparation
+* Step 5: Data Modelling
+* Step 6: Making Predictions Using the Final Model
+* Step 7: Final Results
 
 ## Conclusions
 The demand for bike sharing is mainly dependent on the following variables:
